@@ -1,6 +1,6 @@
 # Getting Started with Instagram React Web Clone
 
-This project was bootstrapped with [Instagram React Web Clone](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
