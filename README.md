@@ -1,5 +1,10 @@
 # Getting Started with Instagram React Web Clone
 
+#ScreenShots
+
+![Clone](https://user-images.githubusercontent.com/110714288/183238856-19db4877-bb44-4262-9551-a9c57b280d80.png)
+![clone2](https://user-images.githubusercontent.com/110714288/183238858-8250179e-7e5e-4a2e-9621-ab911d7e54c7.png)
+
 This project was bootstrapped with [React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
